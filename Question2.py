@@ -1,4 +1,4 @@
-# Predefined grocery dictionary with prices
+
 groceries = {
     "apple": 1.5,
     "banana": 0.8,
@@ -34,7 +34,7 @@ while True:
     else:
         print("Item not available.\n")
 
-# Print final bill
+
 print("\n------ Final Bill ------")
 total = 0
 
