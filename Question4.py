@@ -1,8 +1,8 @@
 
 movies = {
-    "1": {"title": "Avengers", "time": "6:00 PM", "price": 12},
+    "1": {"title": "War Machine", "time": "6:00 PM", "price": 12},
     "2": {"title": "Spider-Man", "time": "8:00 PM", "price": 10},
-    "3": {"title": "Batman", "time": "9:30 PM", "price": 11}
+    "3": {"title": "Iron Man", "time": "9:30 PM", "price": 11}
 }
 
 total_cost = 0
