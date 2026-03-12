@@ -1,4 +1,4 @@
-
+# This part of the code defines the movies available for booking
 movies = {
     "1": {"title": "War Machine", "time": "6:00 PM", "price": 12},
     "2": {"title": "Spider-Man", "time": "8:00 PM", "price": 10},
@@ -7,7 +7,7 @@ movies = {
 
 total_cost = 0
 total_tickets = 0
-
+# This part of the code allows users to book movies and calculates the total cost
 while True:
     print("\nAvailable Movies:")
     for key, movie in movies.items():
